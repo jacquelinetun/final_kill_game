@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/nightmare_loop.mp3-92b9160e9a5ff81d91c846356cd019d1.mp3str"
+
+[deps]
+
+source_file="res://nightmare_loop.mp3"
+dest_files=[ "res://.import/nightmare_loop.mp3-92b9160e9a5ff81d91c846356cd019d1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
